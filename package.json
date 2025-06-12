@@ -5,6 +5,7 @@
   "private": true,
   "devDependencies": {
     "@types/bun": "latest",
+    "@vitest/coverage-v8": "^3.2.3",
     "vitest": "^3.2.3"
   },
   "scripts": {
